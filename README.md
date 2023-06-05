@@ -1,2 +1,2 @@
 # Naveenkumar-R
- [ Mini Project ]
+Core Java [ Mini Project ]
